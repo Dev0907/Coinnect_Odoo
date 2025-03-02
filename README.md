@@ -10,5 +10,5 @@ Jay Parmar - Frontend Developer
 📌 About Coinnect
 A platform designed to empower individuals by providing personalized financial guidance, expense management, news summarization/ recommendation, and community-driven financial literacy.
 
-Video Link -->
+Video Link -->http://drive.google.com/drive/u/1/folders/1F3tk52AzJ40uRxyVPqEHiy24AUdMLvos
 

@@ -1,0 +1,15 @@
+export { default as Dashboard } from "./Dashboard";
+export { default as HomeLayout } from "./HomeLayout";
+export { default as Landing } from "./Landing";
+export { default as Login } from "./Login";
+export { default as Register } from "./Register";
+export { default as Logout } from "./Logout";
+export { default as Welcome } from "./Welcome";
+export { default as Get } from "./Get";
+export { default as Doubt } from "./Doubt";
+export { default as Coiny } from "./Coiny";
+export { default as Coinguru } from "./Coinguru";
+export { default as Price } from "./Price"
+export { default as isFinanceRelated } from "./FinanceModerate"
+export { default as filterFinancePosts } from "./FinanceModerate"
+export { default as About } from "./About"

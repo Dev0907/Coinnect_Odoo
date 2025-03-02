@@ -1,4 +1,3 @@
-
 import express from "express"
 import cookieParser from "cookie-parser"
 import cors from "cors"
@@ -17,10 +16,11 @@ app.use(cookieParser())
 
 import userRouter from "./routes/user.routes.js"
 import commonPostRouter from "./routes/posts.routes.js"
-import likeRouter from "./routes/like.routes.js"
+import communityRouter from "./routes/community.routes.js"
 
 app.use("/api/v1",userRouter)
 app.use("/api/v1/commonPosts",commonPostRouter)
-app.use("/api/v1/l",likeRouter)
+app.use("/api/v1/community",communityRouter)
+
 
 export {app}
